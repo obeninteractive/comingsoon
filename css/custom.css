@@ -1,1 +1,20 @@
 /*! Place your custom styles here */
+.button-socicon [class^="socicon-"], .button-socicon [class*=" socicon-"] {
+	vertical-align: middle;
+	margin-right: 0.3em;
+}
+.bar__module a {
+    color: #ff1668;
+    font-weight: 700;
+}
+.bar__module a:hover {
+    color: #ffffff;
+    font-weight: 700;
+}
+.bar__module a:focus {
+    color: #ffffff;
+    font-weight: 700;
+}
+.btn__text {
+   color: #77BADA !important;
+}
